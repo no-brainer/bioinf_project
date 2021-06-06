@@ -4,7 +4,7 @@ UCSC GenomeBrowser session: [link](http://genome.ucsc.edu/s/paguseva/hse21_H3K4m
 
 Location `chr11:1-135,006,516`
 
-![Image of data in genome browser](./images/genome_browser)
+![Image of data in genome browser](./images/genome_browser.png)
 
 ## Location of ChIP-seq peaks
 
